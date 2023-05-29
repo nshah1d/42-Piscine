@@ -6,7 +6,7 @@ Please open an issue on GitHub for any errors or corrections.<br/>
 `WORKS ON MY MACHINE` <br />
 
 # Contributors
-![May 2023 Piscine: 42 Abu Dhabi](https://42.nauman.cc/Piscine.png)
+![May 2023 Piscine: 42 Abu Dhabi](https://42.nauman.cc/Piscine.jpg)
 
 # Table of Content
 | Projects      | Solutions  |
