@@ -1,5 +1,5 @@
 # 42 ABU DHABI
-[Personal website which contains all current and past projects undertaken at 42 Abu Dhabi.](https://42.nauman.cc/)<br />
+[Personal website which contains my current and past projects being undertaken at 42 Abu Dhabi.](https://42.nauman.cc/)<br />
 This particular repository contains the work for May 2023 C Piscine at 42 Abu Dhabi.<br />
 Please open an issue on GitHub for any errors or corrections.<br/>
 <br/>
