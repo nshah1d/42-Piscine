@@ -1,0 +1,45 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   aff_z.c                                            :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: nshahid <nshahid@student.42abudhabi.ae>    +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2023/05/13 10:08:23 by nshahid           #+#    #+#             */
+/*   Updated: 2023/05/19 14:21:43 by nshahid          ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
+// Assignment name  : aff_z
+// Expected files   : aff_z.c
+// Allowed functions: write
+// --------------------------------------------------------------------------------
+// 
+// Write a program that takes a string, and displays the first 'z'
+// character it encounters in it, followed by a newline. If there are no
+// 'z' characters in the string, the program writes 'z' followed
+// by a newline. If the number of parameters is not 1, the program displays
+// 'z' followed by a newline.
+// 
+// Example:
+// 
+// $> ./aff_z "abc" | cat -e
+// z$
+// $> ./aff_z "dubO a POIL" | cat -e
+// z$
+// $> ./aff_z "zaz sent le poney" | cat -e
+// z$
+// $> ./aff_z | cat -e
+// z$
+
+#include <stdio.h>
+#include <unistd.h>
+
+int	main(int ac, char **av)
+{
+	(void)ac;
+	(void)av;
+	write(1, "z", 1);
+	write(1, "\n", 1);
+	return (0);
+}
