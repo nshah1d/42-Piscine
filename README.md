@@ -1,6 +1,6 @@
 # 42 ABU DHABI
-This repository contains all of the work for the May 2023 C Piscine undertaken at 42 Abu Dhabi.<br />
-Please open an issue on GitHub if an issue is found.<br/>
+This repository contains all of the work undertaken for the May 2023 C Piscine at 42 Abu Dhabi.<br />
+Please open an issue on GitHub for any errors or corrections.<br/>
 <br/>
 `WORKS ON MY MACHINE` <br />
 
