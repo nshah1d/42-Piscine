@@ -1,8 +1,12 @@
 # 42 ABU DHABI
-This repository contains all of the work undertaken for the May 2023 C Piscine at 42 Abu Dhabi.<br />
+[Personal website which contains all current and past projects undertaken at 42 Abu Dhabi.](https://42.nauman.cc/)<br />
+This particular repository contains the work for May 2023 C Piscine at 42 Abu Dhabi.<br />
 Please open an issue on GitHub for any errors or corrections.<br/>
 <br/>
 `WORKS ON MY MACHINE` <br />
+
+# Contributors
+![May 2023 Piscine: 42 Abu Dhabi](https://42.nauman.cc/Piscine.png)
 
 # Table of Content
 | Projects      | Solutions  |
