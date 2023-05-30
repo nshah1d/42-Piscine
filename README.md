@@ -21,7 +21,7 @@ Please open an issue on GitHub for any errors or corrections.<br/>
 | C05 | [80%](./C05)|     | BSQ | |
 | C06 | [100%](./C06) |      | Exam: Level 00 | [solution](./Exam/Level%2000) |
 | C07 |  [60%](./C07)|     | Exam: Level 01 | [solution](./Exam/Level%2001) |
-| C08 | [100%](./C08) |      | Exam: Level 02 | [solution](./Exam/Level%2002) |
+| C08 | [100%](./C08) | &nbsp;&nbsp;&nbsp;&nbsp;     | Exam: Level 02 | [solution](./Exam/Level%2002) |
 | C09 |  [100%](./C09)|     | Exam: Level 03 | [solution](./Exam/Level%2003)|
 
 `60% OF THE TIME WORKS EVERY TIME`
