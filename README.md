@@ -10,7 +10,7 @@ Please open an issue on GitHub for any errors or corrections.<br/>
 
 # Table of Content
 | Projects      | Solutions  |      | Projects      | Solutions  |
-| :--------------:| :----------:|     | :--------------:| :----------:|
+| :--------------:| :----------:| :----------:| :--------------:| :----------:|
 | Shell00 | [100%](./Shell00) |     | C10 | |
 | Shell01 |  [70%](./Shell01) |     | C11 | |
 | C00 | [70%](./C00) |      | C12 | |
