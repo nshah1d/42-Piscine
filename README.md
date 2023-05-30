@@ -24,7 +24,5 @@ Please open an issue on GitHub for any errors or corrections.<br/>
 | C08 | [100%](./C08) |      | Exam: Level 02 | [solution](./Exam/Level%2002) |
 | C09 |  [100%](./C09)|     | Exam: Level 03 | [solution](./Exam/Level%2003)|
 
-<br />
 `60% OF THE TIME WORKS EVERY TIME`
-<br />
 
