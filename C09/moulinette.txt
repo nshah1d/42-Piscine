@@ -1,4 +1,0 @@
-ex00: OK | ex01: OK | ex02: OK
-
-SUCCESS
-100 / 100
